@@ -2,6 +2,6 @@ package helloworld;
 
 public class HelloWorld {
     public static void main(String[] args) {
-        Main.launch(args);
+        Main.main(args);
     }
 }
